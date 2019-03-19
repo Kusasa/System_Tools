@@ -8,6 +8,9 @@ Created By:       Kusasalethu Sithole
 Date:             2019-03-19
 Last Revision:    2019-03-19
 ----------------------------------------------------------------------------------"""
+
+
+
 # Declare event() function
     #copy folder from directory a to directory b
     #capute event details in log file
@@ -16,7 +19,8 @@ Last Revision:    2019-03-19
     # current_time = capture system time
     # time_of_interest
     # while current_time != time_of_interest:
-        #continue
+        # current_time = capture system time
     # else:    
         #return (event())
 
+#run timeCompare()
