@@ -3,7 +3,7 @@ import random
 print ('Goodday fellow homo sapien. What name do others call you?')
 name = raw_input()
 
-print('Nice to meet you '+ name.title() +', you sexy thang. Come let\'s play a guessing game. I\'m thinking of a number between 1-20. I\'ll give you six chances to guess it right.') #Present the Game
+print('Nice to meet you there '+ name.title() +', you sexy thang. Come let\'s play a guessing game. I\'m thinking of a number between 1-20. I\'ll give you six chances to guess it right.') #Present the Game
 
 actualNumber = random.randint(1,20)
 
