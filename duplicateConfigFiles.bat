@@ -1,0 +1,1 @@
+for /F %%t in (list.txt) do copy SearchSQL.dat duplicates\%%tSearchSQL.dat
